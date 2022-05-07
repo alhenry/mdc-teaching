@@ -2,7 +2,7 @@
 * example analysis do-file *
 
 * set working directory:
-cd "S:\ICH_PPP_CENB_CEBCH\Rachel Pearson\Teaching\Messy data challenge\upload to moodle BEFORE CHALLENGE"
+cd "N:\IHI teaching\mdc-teaching\"
 
 * read in data:
 use icu_data, clear
