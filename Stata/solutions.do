@@ -8,6 +8,7 @@ cd "N:\IHI teaching\mdc-teaching\"
 use icu_data, clear
 
 * flag first ICULOS  per patient 
+sort patid iculos
 egen patid_fl = tag(patid)
 
 *----------------------*
